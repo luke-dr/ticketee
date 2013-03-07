@@ -5,6 +5,8 @@ gem 'rails', '3.2.12'
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
+gem 'dynamic_form', '1.1.4'
+
 gem 'sqlite3'
 
 

@@ -26,6 +26,10 @@ gem 'jquery-rails'
 
 group :test, :development do
   gem 'rspec-rails', '~> 2.11'
+  gem 'pry-rails'
+  gem 'pry-doc'
+  gem 'launchy'
+  gem 'pry-debugger'
 end
 
 group :test do

@@ -70,6 +70,10 @@
         1,
         null
       ],
+      "/Users/luke/repos/ticketee/app/helpers/files_helper.rb": [
+        1,
+        null
+      ],
       "/Users/luke/repos/ticketee/app/helpers/projects_helper.rb": [
         1,
         null
@@ -190,6 +194,22 @@
         1,
         1,
         17,
+        null,
+        null
+      ],
+      "/Users/luke/repos/ticketee/app/controllers/files_controller.rb": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        1,
+        null,
+        null,
+        null,
+        1,
+        1,
+        null,
         null,
         null
       ],
@@ -389,11 +409,11 @@
         1,
         null,
         1,
-        78,
-        112,
+        80,
+        113,
         null,
         null,
-        40,
+        41,
         null,
         null,
         null,
@@ -404,9 +424,11 @@
         1,
         1,
         1,
+        null,
+        1,
         null
       ]
     },
-    "timestamp": 1363748294
+    "timestamp": 1363763561
   }
 }

@@ -1,5 +1,6 @@
 class Ticket < ActiveRecord::Base
   belongs_to :project
+  belongs_to :state
   belongs_to :user
   attr_accessible :title, :description, :assets_attributes
   validates :title, :presence => true

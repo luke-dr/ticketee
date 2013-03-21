@@ -15,7 +15,7 @@
         1,
         null,
         1,
-        41,
+        42,
         null,
         null,
         null
@@ -37,20 +37,20 @@
       "/Users/luke/repos/ticketee/app/helpers/application_helper.rb": [
         1,
         1,
-        30,
-        30,
-        30,
+        32,
+        32,
+        32,
         null,
         null,
         null,
         null,
         1,
-        301,
+        317,
         null,
         null,
         1,
         29,
-        64,
+        74,
         null,
         null
       ],
@@ -67,6 +67,10 @@
         null
       ],
       "/Users/luke/repos/ticketee/app/helpers/admin/users_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/luke/repos/ticketee/app/helpers/comments_helper.rb": [
         1,
         null
       ],
@@ -197,6 +201,37 @@
         null,
         null
       ],
+      "/Users/luke/repos/ticketee/app/controllers/comments_controller.rb": [
+        1,
+        1,
+        1,
+        null,
+        1,
+        2,
+        2,
+        2,
+        1,
+        1,
+        null,
+        1,
+        1,
+        null,
+        null,
+        null,
+        1,
+        null,
+        1,
+        2,
+        null,
+        null
+      ],
+      "/Users/luke/repos/ticketee/app/models/comment.rb": [
+        1,
+        1,
+        1,
+        1,
+        null
+      ],
       "/Users/luke/repos/ticketee/app/controllers/files_controller.rb": [
         1,
         1,
@@ -229,7 +264,7 @@
         1,
         null,
         1,
-        76,
+        80,
         null,
         null,
         1,
@@ -271,7 +306,7 @@
         null,
         1,
         1,
-        39,
+        41,
         null,
         null,
         4,
@@ -291,12 +326,12 @@
         1,
         null,
         1,
-        99,
+        108,
         null,
         null,
         null,
         1,
-        156,
+        165,
         null,
         null,
         null
@@ -338,6 +373,7 @@
         null,
         null,
         1,
+        20,
         null,
         null,
         1,
@@ -361,7 +397,7 @@
         null,
         1,
         1,
-        41,
+        44,
         null,
         1,
         null,
@@ -369,7 +405,7 @@
         null,
         null,
         1,
-        28,
+        31,
         null,
         null,
         1,
@@ -404,6 +440,7 @@
         null,
         1,
         1,
+        1,
         null
       ],
       "/Users/luke/repos/ticketee/app/controllers/users_controller.rb": [
@@ -417,8 +454,8 @@
         1,
         null,
         1,
-        80,
-        113,
+        86,
+        119,
         null,
         null,
         41,
@@ -437,6 +474,6 @@
         null
       ]
     },
-    "timestamp": 1363817869
+    "timestamp": 1363824510
   }
 }

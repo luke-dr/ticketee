@@ -84,6 +84,18 @@
       ],
       "/Users/luke/repos/ticketee/app/helpers/tickets_helper.rb": [
         1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        0,
+        null,
+        2,
+        null,
+        null,
+        null,
+        null,
         null
       ],
       "/Users/luke/repos/ticketee/app/helpers/users_helper.rb": [
@@ -230,15 +242,21 @@
         1,
         1,
         1,
-        null,
-        1,
-        1,
-        1,
         1,
         null,
         1,
+        1,
+        1,
+        1,
+        1,
         null,
         1,
+        null,
+        1,
+        null,
+        1,
+        2,
+        null,
         null,
         1,
         2,
@@ -494,11 +512,11 @@
         1,
         null,
         1,
-        2,
+        4,
         null,
         null
       ]
     },
-    "timestamp": 1363832306
+    "timestamp": 1363851277
   }
 }

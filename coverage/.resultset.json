@@ -23,11 +23,17 @@
       "/Users/luke/repos/ticketee/app/controllers/application_controller.rb": [
         1,
         1,
+        1,
         null,
         1,
+        null,
         1,
-        80,
-        80,
+        395,
+        null,
+        null,
+        1,
+        85,
+        85,
         6,
         6,
         null,
@@ -45,7 +51,7 @@
         null,
         null,
         1,
-        329,
+        335,
         null,
         null,
         1,
@@ -64,6 +70,10 @@
         null,
         16,
         null,
+        null
+      ],
+      "/Users/luke/repos/ticketee/app/helpers/admin/states_helper.rb": [
+        1,
         null
       ],
       "/Users/luke/repos/ticketee/app/helpers/admin/users_helper.rb": [
@@ -146,6 +156,37 @@
         1,
         1,
         1,
+        null
+      ],
+      "/Users/luke/repos/ticketee/app/controllers/admin/states_controller.rb": [
+        1,
+        1,
+        2,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        0,
+        0,
+        null,
+        null,
+        null
+      ],
+      "/Users/luke/repos/ticketee/app/models/state.rb": [
+        1,
+        1,
+        null,
+        1,
+        4,
+        null,
         null
       ],
       "/Users/luke/repos/ticketee/app/controllers/admin/users_controller.rb": [
@@ -296,7 +337,7 @@
         1,
         null,
         1,
-        82,
+        83,
         null,
         null,
         1,
@@ -363,7 +404,7 @@
         null,
         null,
         1,
-        174,
+        175,
         null,
         null,
         null
@@ -506,17 +547,8 @@
         null,
         1,
         null
-      ],
-      "/Users/luke/repos/ticketee/app/models/state.rb": [
-        1,
-        1,
-        null,
-        1,
-        4,
-        null,
-        null
       ]
     },
-    "timestamp": 1363851277
+    "timestamp": 1363925272
   }
 }
